@@ -2887,7 +2887,7 @@ With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all
 [Gensosenkyo](https://election.suikoden.info/) is a popularity vote event for game characters held by volunteers. In conducting the event, we are developing OSS to collect tweets and creating a Web API to return information about game productions. These have been improved a little each time the event is held. cf. https://github.com/true-runes
 
 ### Rucksack
-Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys). 
+Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys).
 https://github.com/oxur/rucksack
 
 ### Nova Labs
@@ -2980,7 +2980,7 @@ Small meetup group of college where we create shortnotes of different college cu
 [LinkScape](https://linkscape.hackclub.com)  is a Chinese student-led nonprofit that support students to make their own OSS
 
 ### napari
-A multidimensional image viewer for Python.  
+A multidimensional image viewer for Python.
 https://napari.org
 
 ### react-confirm
@@ -3001,7 +3001,7 @@ We stream to - https://www.broadcastify.com/listen/feed/30028
 ### pandas
 
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
-built on top of the Python programming language.  
+built on top of the Python programming language.
 https://pandas.pydata.org/
 
 ### Keptn
@@ -3013,7 +3013,7 @@ An organizational asset and vulnerability management tool, with Jira integration
 [bulwark](https://github.com/softrams/bulwark)
 
 ### Yocto Project
-We help developers create custom Linux-based systems regardless of hardware architecture. 
+We help developers create custom Linux-based systems regardless of hardware architecture.
 The project provides a flexible set of tools and a space where embedded developers worldwide can share technologies, software stacks, configurations, and best practices that can be used to create tailored Linux images for embedded and IOT devices, or anywhere a customized Linux OS is needed.
 https://www.yoctoproject.org/
 
@@ -3066,7 +3066,7 @@ Neuron is an open-source blockchain wallet aiming at exploiting the potential of
 https://github.com/nervosnetwork/neuron
 
 ### Paketo Buildpacks
-Paketo Buildpacks is a Linux Foundation subproject, under the Cloud Foundry Foundation.  
+Paketo Buildpacks is a Linux Foundation subproject, under the Cloud Foundry Foundation.
 https://paketo.io/
 
 ### O-RAN-SC
@@ -3191,12 +3191,12 @@ Podlove is an initiative to improve the overall technical infrastructure for pod
 https://podlove.org
 
 ### NestJS Toolbox
-Multipe tools for NestJS framework 
+Multipe tools for NestJS framework
 [nestjs-toolbox](https://github.com/lupu60/nestjs-toolbox)
 
 ### NLnet Labs
 Founded in 1999, NLnet Labs is an independent, non-profit foundation based in the Netherlands. Our mission is to make the core of the Internet a better, safer place by developing open-source software, through applied research and by promoting and contributing to open standards. Proud maintainers of NSD nameserver, Unbound DNS resolver, Krill and Routinator RPKI software.
-https://github.com/NLnetLabs 
+https://github.com/NLnetLabs
 
 ### Prometheus
 Prometheus, a [Cloud Native Computing Foundation](https://cncf.io/) project, is
@@ -3310,7 +3310,7 @@ Freelancer Collection is a simple launcher written with C# WPF .NETFramework tha
 https://github.com/TrainzCity/FreelancerCollection
 
 ### CNCF TAG Contributor Strategy
-[Contributor Strategy](https://github.com/cncf/tag-contributor-strategy) is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups and projects with their own contributor strategies for a healthy project. 
+[Contributor Strategy](https://github.com/cncf/tag-contributor-strategy) is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups and projects with their own contributor strategies for a healthy project.
 
 ### RythmHacks
 We're one of the only high school hackathons in Canada, running annual events that focus around entrepreurship and empowering high schoolers. Check out our website [here](https://www.rythmhacks.ca)!
@@ -3337,7 +3337,7 @@ Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC,
 https://github.com/AlexxIT/go2rtc
 
 ### OneLiteFeather
-OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
+OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers.
 https://github.com/OneLiteFeatherNET
 
 ### auto-approve-circle-ci
@@ -3362,7 +3362,7 @@ https://www.opensource.observer
 Hack the Hill is a student-run hackathon based in Canada's capital, aimed at making the hackathon experience fun and entertaining for university students across Ottawa
 https://hackthehill.com
 
-### Universal Blue 
+### Universal Blue
 Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
 https://universal-blue.org/
 
@@ -3633,7 +3633,7 @@ This is a free salary management and salary payment solution for non-profit orga
 https://github.com/duongnga/salary-manager-solution
 
 ### NetEx iOS Club
-We are a group of iOS developers which originated from the university's iOS Club. Many of us have won WWDC scholarships, including [Knowledge Graph](https://github.com/iamStephenFang/KnowledgeGraph), [CameraSimulator](https://github.com/Lambozhuang/Playground_CameraSimulator) and so on. We pay attention to iOS development trends, continue to share iOS-related content, and develop some tools driven by interest, such as [WhatsNewInUIKit](https://github.com/iamStephenFang/WhatsNewInUIKit), [SFTintedIconPicker](https://github.com/iamStephenFang/SFTintedIconPicker). 
+We are a group of iOS developers which originated from the university's iOS Club. Many of us have won WWDC scholarships, including [Knowledge Graph](https://github.com/iamStephenFang/KnowledgeGraph), [CameraSimulator](https://github.com/Lambozhuang/Playground_CameraSimulator) and so on. We pay attention to iOS development trends, continue to share iOS-related content, and develop some tools driven by interest, such as [WhatsNewInUIKit](https://github.com/iamStephenFang/WhatsNewInUIKit), [SFTintedIconPicker](https://github.com/iamStephenFang/SFTintedIconPicker).
 
 ### VidStickerBot
 Free to use, no ads no metrics FFMPEG based python telegram bot for converting any video to webm VP9 for creating video stickers.
@@ -3642,3 +3642,11 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### Software Underground
+Non-profit organization that groups computational geoscientists from around the
+world, fosters the
+development of open-source scientific tools, and hosts the [Transform
+events](https://transform.softwareunderground.org) that offer tutorials and
+sprints to learn and improve open-source geoscientific software tools.
+https://softwareunderground.org/
